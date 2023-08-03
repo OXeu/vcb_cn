@@ -16,7 +16,7 @@
 # 使用方法
 
 1. 退出 vcb
-2. 下载对应 vcb 版本的 pck 文件
+2. 进入 [Release](https://github.com/ThankRain/vcb_cn/releases) 下载对应 vcb 版本的 pck 文件
 3. Steam 库中右键点击 vcb，选择 管理 -> 浏览本地文件打开应用目录
 4. 打开应用目录将 vcb.pck 文件替换为下载的 vcb.pck
 5. 下次启动 vcb 即可生效
