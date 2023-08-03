@@ -1,6 +1,7 @@
 # Virtual Circuit Board 虚拟面包板汉化包
 翻译：Xeu  
 由 ChatGPT 提供翻译支持。  
+所有汉化内容对照表请参阅 mapping 文件夹，vcb.json 为原文， vcb_cn.json 为 ChatGPT 翻译后内容  
 仅供学习交流使用，禁止用于商业用途。  
 # 效果图
 
