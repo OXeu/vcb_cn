@@ -1,5 +1,7 @@
 # Virtual Circuit Board 虚拟面包板汉化包
-
+翻译：Xeu  
+由 ChatGPT 提供翻译支持。  
+仅供学习交流使用，禁止用于商业用途。  
 # 效果图
 
 ![sample1](./img/sample1.png)
@@ -7,6 +9,9 @@
 ![sample2](./img/sample2.png)
 
 ![sample3](./img/sample3.png)
+
+![sample4](./img/sample4.png)
+
 
 # 使用方法
 
